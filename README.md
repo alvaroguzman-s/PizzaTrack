@@ -21,7 +21,7 @@ Una pila es una estructura donde el último elemento que entra es el primero que
 
 Esto se conoce como **LIFO (Last In, First Out)**.
 
-Por ejemplo, si registro tres pizzas:
+Por ejemplo:
 
 ```text
 Pizza 1
@@ -91,11 +91,27 @@ También se probó que al hacer Deshacer y después registrar una pizza nueva, n
 
 ## Capturas
 
-Las capturas de la ejecución se encuentran en la carpeta `capturas/`.
+### Registro de pizza
+
+![Registro de pizza](capturas/registro.png)
+
+### Deshacer
+
+![Deshacer](capturas/deshacer.png)
+
+### Rehacer
+
+![Rehacer](capturas/rehacer.png)
 
 ## Video de sustentación
 
-**Enlace del video:** Pendiente de agregar.
+En el siguiente video se muestra el funcionamiento del proyecto y las operaciones de registro, Deshacer y Rehacer:
+
+[Ver video de sustentación](https://youtu.be/mE-ecO1XyOo?si=Zftczf_3t892cXXV)
+
+## Repositorio
+
+Proyecto individual realizado en GitHub como `PizzaTrack`.
 
 ## Autor
 
